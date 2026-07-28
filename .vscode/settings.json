@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Basics-CatLikeCoding.slnx"
+    "dotnet.defaultSolution": "CatLikeCoding.slnx"
 }
